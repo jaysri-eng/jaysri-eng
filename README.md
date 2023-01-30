@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaysri-eng
-- 👀 I’m interested in App development and a NFT, crypto enthusiast!
+- 👀 I’m interested in App development, web development and a NFT, crypto enthusiast!
 - 🌱 I’m currently learning IOS development and Swift 
 - 💞️ I’m looking to collaborate on any app development projects and if you want any app for your project then hit me up!
 - 📫 How to reach me: jayanthsrinivasan1011@gmail.com or through Instagram: https://www.instagram.com/_jayanthsri_/
