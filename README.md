@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jaysri-eng
-- 👀 I’m interested in App development, web development and a NFT, crypto enthusiast!
-- 🌱 I’m currently learning IOS development and Swift 
-- 💞️ I’m looking to collaborate on any app development projects and if you want any app for your project then hit me up!
-- 📫 How to reach me: jayanthsrinivasan1011@gmail.com or through Instagram: https://www.instagram.com/_jayanthsri_/
+- 👋 Hi, I’m Jayanth Srinivasan
+- 👀 I’m interested in App development, web development and !
+- 🌱 I'm working on a few projects like an AI agent for trending hashtags, captions etc for content creators and an app which acts as your day to day problem solver - feed your daily activities and thoughts the app's AI agent will identify the root cause by analysing your patterns! 
+- 💞️ I’m looking to collaborate on any projects and open to work (Fulltime roles) 
+- 📫 How to reach me: jayanthsrinivasan1011@gmail.com or through Instagram: https://www.instagram.com/_jayanthsri_/ and do checkout my portfolio https://jaysri-eng.github.io/my_portfolio/
 
 <!---
 jaysri-eng/jaysri-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
